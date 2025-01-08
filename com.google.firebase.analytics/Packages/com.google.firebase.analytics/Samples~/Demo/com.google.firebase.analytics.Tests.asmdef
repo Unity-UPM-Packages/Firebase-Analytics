@@ -1,0 +1,16 @@
+{
+    "name": "com.google.firebase.analytics.Demo",
+    "rootNamespace": "com.google.firebase.analytics.Demo",
+    "references": [
+        "com.google.firebase.analytics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
